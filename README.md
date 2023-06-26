@@ -2,12 +2,13 @@
 ## [Three.js](https://threejs.org/) Sphere
 
  **Atanu Bera** 
-
-A simple sphere with **animation** and **hover mouse** effects... cool ins't? 😏
+<br>
+<br>
+A simple sphere with **animation** and **hover mouse** effects... cool ins't? 😏<br> [demo](https://sphere-atanu16.vercel.app/)
 
 ## About
 
-**[Three.js](https://threejs.org/)** is a library of JavaScript used to create 3D animations ❌***like  mouse follow, particles and so many others***❌
+**[Three.js](https://threejs.org/)** is a library of JavaScript used to create 3D animations <br>🪭***like  mouse follow, particles and so many others***🪭
 
 
 You can checkout the **[examples](https://threejs.org/examples/#webgl_animation_keyframes)** to see the **power** that this library have and what can be made with that!

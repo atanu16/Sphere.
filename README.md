@@ -46,7 +46,7 @@ npm run build
 
 ```
 
-## Take a look
+## Download 
 
  **The full project you can download [➡here⬅](https://codeload.github.com/atanu16/Sphere./zip/refs/heads/main)**
 
